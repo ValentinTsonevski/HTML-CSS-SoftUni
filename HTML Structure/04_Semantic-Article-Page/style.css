@@ -1,0 +1,39 @@
+section{
+    font-style: italic;
+    color: #5c6e91;
+}
+
+.comments-first-comment{
+    border:  1px solid #b2ad7d;
+    width: 700px;
+    background-color: #f2f4c0;
+    padding: 5px 15px;
+    margin:  10px;
+}
+
+.second-comment{
+    border:  1px solid #b2ad7d;
+    width: 700px;
+    background-color: #f2f4c0;
+    padding: 5px 15px;
+    margin:  10px;
+}
+
+body{
+    background-color: #e4e978;
+    margin: 15px 10px;
+    padding: 5px 15px;
+    width: 700px;
+}
+
+.article-apple{
+    border:  1px solid #b2ad7d;
+    width: 700px;
+    background-color: #f2f4c0;
+    padding: 5px 15px;
+    margin:  10px;
+}
+
+section h2,.comments{
+    color: #4c7658;
+}
