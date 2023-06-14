@@ -1,0 +1,58 @@
+@import url("https://use.fontawesome.com/releases/v5.6.3/css/all.css");
+
+body{
+    font-family: "FontAwesome";
+    margin: 50px 40px;
+    background-color: whitesmoke;
+}
+
+.button{
+    border-radius: 15px;
+    border: 1px solid rgb(51, 51, 51); 
+    outline: none;
+    color: rgb(51, 51, 51);
+    cursor: pointer;
+}
+
+.button-green{
+    border-radius: 15px;
+    border: 1px solid rgb(51, 51, 51); 
+    outline: none;
+    color: rgb(51, 51, 51);
+    cursor: pointer;
+}
+
+.button-green:hover{
+    background-color: rgb(251, 251, 251);
+    border-radius: 15px;
+    border: 1px solid  rgb(0, 102, 0);
+    outline: none;
+    color: rgb(51, 51, 51);
+    cursor: pointer;
+    color: rgb(0, 102, 0);
+}
+
+a{
+    text-decoration: none;
+}
+
+.fill, .hover{
+   background-color:rgb(51, 51, 51);
+   border-radius: 15px;
+   border:rgb(251, 251, 251);
+   outline: none;
+   color: rgb(251, 251, 251);
+   cursor: pointer;
+}
+
+
+.hover:hover{
+    background-color: rgb(0, 102, 0);
+}
+
+
+a .fill{
+    color: rgb(251, 251, 251);
+    text-decoration: none;
+}
+
