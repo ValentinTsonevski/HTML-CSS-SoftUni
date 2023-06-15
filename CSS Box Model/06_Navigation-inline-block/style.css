@@ -1,0 +1,28 @@
+li{
+    display: inline-block;
+}
+
+html{
+    font-family: Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+    margin-right: 10px;
+   
+}
+
+.main{
+    border-top: solid 2px black;
+}
+
+nav{
+    display: inline-block;
+}
+
+header{
+    align-items: center;
+    display: flex;
+}
+
