@@ -1,0 +1,19 @@
+body{
+display: flex;
+padding: 50px;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+li{
+    display: flex;
+    border: 8px solid black;
+    align-items: center;
+    background-color: white;
+    padding: 1rem;
+}
