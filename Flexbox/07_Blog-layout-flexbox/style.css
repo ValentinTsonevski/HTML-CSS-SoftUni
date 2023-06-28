@@ -1,0 +1,73 @@
+body{
+    background-color:  rgb(238, 238, 238);
+    margin-left: 30px;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.first{
+    float: right;
+}
+
+.second{
+    float: left;
+}
+
+.image{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 20px;
+}
+
+blockquote, h2{
+    font-family: Georgia, serif;
+}
+
+blockquote{
+    position: relative;
+    border-left: 4px solid lightgrey;
+    color: lightslategray;
+   padding: 16px;
+   width: 15vw;
+   float: right;
+}
+
+.author-name{
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+    margin: 3px;
+}
+
+header{
+    border-bottom: 3px solid black;
+    width: 100%;
+}
+
+img{
+   background-color: rgb(255, 255, 255);
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+
+a{
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+
+aside{
+    display: flex;
+    margin-left: 40px;
+}
+
+main{
+    width: 65vw;
+}
+
