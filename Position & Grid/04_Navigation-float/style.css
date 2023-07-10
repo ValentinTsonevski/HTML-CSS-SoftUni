@@ -1,0 +1,14 @@
+nav ul li a{
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: green; 
+    top: 10px;
+    right: 10px;
+}
+
+main{
+    border-top: 2px solid black;
+}
+
